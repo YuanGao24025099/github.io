@@ -1,0 +1,14 @@
+bgm:(跑步）Loop_1_Pf_BPM84.mp3;
+:They start running. -跑步声.mp3 -fontSize=default;
+:They forget the her tiredness and just run forward. -fontSize=default;
+:They didn't know if their worn-out shoes could survive this, but they didn't care. -fontSize=default;
+:The way home seems to have suddenly become longer and has no end. -fontSize=default;
+???:(Just like when running 800 meters during a physical education exam……) -跑步声.mp3 -fontSize=default;
+???:(As endless as work……) -跑步声.mp3 -fontSize=default;
+???:(Why am I doing endless thing all day lately?) -跑步声.mp3 -fontSize=default;
+:The footsteps behind them also started running. -跑步声.mp3 -fontSize=default;
+:As if not giving them time to sigh. -fontSize=default;
+:The footsteps behind sound heavier than theirs. -跑步声.mp3 -fontSize=default;
+:The footsteps behind sound faster than theirs. -跑步声.mp3 -fontSize=default;
+:The footsteps behind sound like they are catching up with them. -跑步声.mp3 -fontSize=default;
+choose:Run faster!!!:Pt1 Run1.txt|Run faster!!!:Pt1 Run2.txt|Run faster!!!:Pt1 Run3.txt;

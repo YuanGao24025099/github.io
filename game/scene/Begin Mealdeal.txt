@@ -1,0 +1,20 @@
+changeBg:Beginning/MealDeal.png -next;
+:You choose to have a look at meal deal section. -fontSize=default;
+:Even though it's not very delicious, no one would object to the cheap price. -fontSize=default;
+:For your drink, you would like to have -fontSize=default;
+choose:Still water:选择场景文件|Sparkling water:选择场景文件|Soft drink:选择场景文件|Juice:选择场景文件|Coffee:选择场景文件|Beer:选择场景文件|A cup of lamp:选择场景文件;
+:For the main dish, you choose -fontSize=default;
+choose:Chicken sandwich:选择场景文件|Beef sandwich:选择场景文件|Egg and bacon sandwich:选择场景文件|A bowl of salad:选择场景文件|Falafel wrap:选择场景文件|Dumplings:选择场景文件|Curry chocolate concrete circus cell:选择场景文件;
+:Finally, the snack you will have -fontSize=default;
+choose:Crisps:选择场景文件|Nuts:选择场景文件|Candies:选择场景文件|Eggs:选择场景文件|Fruits:选择场景文件|Fireworks:选择场景文件;
+:Congratulations you are free from those choices! Now it's time to pay the bill. -fontSize=default;
+changeBg:Beginning/MealDeal2.jpg -next;
+:You scanned your meal carefully with gentle and soft movement. You did not do anything wrong about scanning your items. -fontSize=default;
+:But the machine desperately turned red, now you can only waiting for help. It's so unfair! -fontSize=default;
+:Finally an assistant came to help you, but they just tapped the screen several times and left you and did not help anything! -fontSize=default;
+:Are you destined to never have a good meal? Are you -notend -fontSize=default;
+:Oh they are back, nevermind. -fontSize=default;
+changeBg:Beginning/MealDeal1.jpg -next;
+:The assistant congrats you that you reached a secret achievement in the field of meal deal. -fontSize=default;
+:Then the assistant stuffed an envelope in your hand and sent you out without explain anything further. -fontSize=default;
+changeScene:Begin End.txt

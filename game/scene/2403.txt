@@ -1,0 +1,12 @@
+changeBg:Pt3_Ending/240坐4.png -next;
+:You told 240 that 250 let you take a look at their phone. -fontSize=default;
+240:250 let you saw those?! ……Did you see my private photo album?? -fontSize=default;
+choose:I didn't see it:选择场景文件|I saw it:选择场景文件;
+changeBg:Pt3_Ending/240坐2.png -next;
+240:Oh wait I remember I set a password…… Nevermind. -fontSize=default;
+changeBg:Pt3_Ending/240坐1.png -next;
+250:Do you want to see the picture of 240 washing their hair while standing upside down? -fontSize=default;
+250:I paid a month of their rent for that. -fontSize=default;
+choose:Definately Yes:选择场景文件|No Thanks:选择场景文件;
+240:Don't even think about it. -fontSize=default;
+changeScene:End.txt

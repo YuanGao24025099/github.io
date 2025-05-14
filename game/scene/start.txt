@@ -1,0 +1,6 @@
+bgm:糖梅仙子舞曲.mp3;
+intro:This game is the final outcome of the Unit 4: Personal Progression Project.|The content in this game is for study purpose only and completely fictional.|The plot, character settings, locations and backgrounds in this game are all oringinal and fictionalized by the author or processed for creative purposes.|This game has nothing to do with any individual, group, organization or event that exists in reality.|Any similarity is purely coincidental.|(Left click to continue) -fontSize=small -backgroundColor=rgba(181, 213, 255, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=2000 -hold;
+changeBg:Opening.jpg -next;
+:Somehow, you are in a Visual Novel Game. -fontSize=default;
+:Of course, you -notend -fontSize=default;
+choose:know how to play Visual Novel Game:Tutorial End.txt|are not farmiliar with Visual Novel Game:Tutorial.txt;

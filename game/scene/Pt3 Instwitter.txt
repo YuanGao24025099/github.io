@@ -1,0 +1,6 @@
+bgm:糖梅仙子舞曲.mp3;
+changeBg:Pt3_Ending/社交平台.jpg -next;
+:You opened the Instwitter, it is a typical social media platform. -fontSize=default;
+:Half user-sharing content and half advertisements, nothing interesting. -fontSize=default;
+:Maybe the owner of this phone will scroll this app to kill their time? -fontSize=default;
+choose:Quit Instwitter:Pt3 Choose.txt;

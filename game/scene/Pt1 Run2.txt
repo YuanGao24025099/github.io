@@ -1,0 +1,2 @@
+:They was so focused on speeding up that they didn't notice the uneven road and they tripped. -fontSize=default;
+changeScene:Pt1 Shoulder.txt

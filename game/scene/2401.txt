@@ -1,0 +1,12 @@
+:You told 240 that you saw them walking on the street at night and being comforted by their colleague. -fontSize=default;
+240:……What? I'm not sure if I remember that…… But I do remember that nice colleague. -fontSize=default;
+:You told 240 more details, they seems remember that. -fontSize=default;
+changeBg:Pt3_Ending/240坐2.png -next;
+240:Ahh—— I was really tired at that time. -fontSize=default;
+240:I hate the feeling of not being able to see the end no matter how hard I try. -fontSize=default;
+240:Although it doesn't seem so bad if you think about it from another angle, it's still pretty annoying. -fontSize=default;
+changeBg:Pt3_Ending/240坐1.png -next;
+240:But seeing such optimistic people will feel a little infected, right? -fontSize=default;
+240:Every time I see such positive people, I feel encouraged by their energy. -fontSize=default;
+240:I don't know if you will feel the same way or not but it is nice to try live like them. -fontSize=default;
+changeScene:End.txt

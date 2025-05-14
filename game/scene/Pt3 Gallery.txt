@@ -1,0 +1,5 @@
+bgm:糖梅仙子舞曲.mp3;
+changeBg:Pt3_Ending/相册.jpg -next;
+:You opened the Gallery, most of pictures were deleted, only 3 pictures survived. -fontSize=small -left;
+:Maybe the owner of this phone doesn’t really like to record their life. -fontSize=default;
+choose:Left one:Left.txt|Middle one:Middle.txt|Right one:Right.txt|Quit the Gallery:选择场景文件;

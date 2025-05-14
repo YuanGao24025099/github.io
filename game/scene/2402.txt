@@ -1,0 +1,10 @@
+:You told 240 that you saw them bought a strawberry cake after work. -fontSize=default;
+changeBg:Pt3_Ending/240坐3.png -next;
+240:The cakes in that shop are really delicious! -fontSize=default;
+240:They have fruit cakes, chocolate cakes, cupcakes…… -fontSize=default;
+240:I like their strawberry cake and cheesecake the most! -fontSize=default;
+240:And occasionally they have discounts on desserts that aren't so good looking, which is very wallet-friendly. -fontSize=default;
+240:Sometimes there are particularly ugly cakes. -fontSize=default;
+240:It's made like that↑↑↓↓ ugly and can be put on display for sale. -fontSize=default;
+240:I feel like the crappy things I made aren't that crappy anymore after seeing that! -fontSize=default;
+changeScene:End.txt

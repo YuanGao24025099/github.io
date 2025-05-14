@@ -1,0 +1,15 @@
+changeBg:Beginning/Bakery.png -next;
+:The new bakery is holding a grand opening event. -fontSize=default;
+:The event contains VIP membership, buy 1 get 1 free, buy 5 for 3, 100 off for 300, 50% off for purchases over 500 …… -fontSize=default;
+:And a 100% winning rate lucky draw event. -fontSize=default;
+:More and more people are coming for this event and they caused less and less bread are left on the shelves. -fontSize=default;
+:You have to make your choice quickly, you decide to buy -fontSize=default;
+choose:Gluten, egg and milk free bread:选择场景文件|Meat floss cheese sausage bread:选择场景文件|Carrot lettuse corn vegetarian bread:选择场景文件|Cute animal-shaped bread:选择场景文件|Croissant:选择场景文件|Chocolate donut:选择场景文件|Baguette:选择场景文件|Toast:选择场景文件|Toast without crust:选择场景文件|Toast crust only:选择场景文件;
+:You grab your bread from the crowd and escape to the checkout. -fontSize=default;
+changeBg:Beginning/Bakery2.jpg -next;
+:The cashier warmly invites you to participate in the lucky draw event. -fontSize=default;
+choose:(Choose a raffle ticket):选择场景文件;
+:There are prizes from A to J, and you won... S prize! Strange. -fontSize=default;
+changeBg:Beginning/Bakery1.jpg -next;
+:The cashier congratulated you on winning the mysterious prize and handed you an envelope with your bread. -fontSize=default;
+changeScene:Begin End.txt

@@ -1,0 +1,19 @@
+changeBg:Beginning/Worldwide.png -next;
+:You entered a restaurant that sells global cuisine and their menu is surprisingly rich. -fontSize=default;
+:You start to read the menu. -fontSize=default;
+:…… -fontSize=default;
+:…… -fontSize=default;
+:…… -fontSize=default;
+:……This menu is really thick, isn't it? -fontSize=default;
+:…… -fontSize=default;
+:…… -fontSize=default;
+:…… -notend -fontSize=default;
+:In the end, you decide to have -fontSize=default;
+choose:Chinese food:选择场景文件|British food:选择场景文件|American food:选择场景文件|Japanese food:选择场景文件|Korean food:选择场景文件|Italian food:选择场景文件|Indian food:选择场景文件|German food:选择场景文件;
+:After a period of waiting, you enjoyed your meal. -fontSize=default;
+:Although it is not as delicious as the food you dreamed last time you slept, it is still fantastic to fill hunger -fontSize=default;
+:When you are ready to pay, the card reader machine went wrong. -fontSize=default;
+changeBg:Beginning/Worldwide1.jpg -next;
+:It says you won a special prize because you are the number 10000 customer of this restaurant. -fontSize=default;
+:Before you could ask anything about the prize, the waiter stuffed an envelope in your hand and sent you out. -fontSize=default;
+changeScene:Begin End.txt

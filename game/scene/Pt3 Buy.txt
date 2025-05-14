@@ -1,0 +1,7 @@
+bgm:糖梅仙子舞曲.mp3;
+changeBg:Pt3_Ending/购物车.jpg -next;
+:You opened the Buy, this is an online shopping app, the page stayed at the shopping cart page. -fontSize=default;
+:From top to bottom, the merchandise added in cart are a brain-shaped lamp, a small amber and coasters. -fontSize=default;
+:All the merchandise are good-looking and relatively expensive. -fontSize=default;
+:Maybe that's the reason why the owner did't buy them? -fontSize=default;
+choose:Quit the Buy:Pt3 Choose.txt;

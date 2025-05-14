@@ -1,0 +1,8 @@
+bgm:ぼうけんのしょがきえました！_off vocal_jesusp_202505150001.mp3;
+changeBg:Pt3_Ending/游戏界面.jpg -next;
+:You opened the game, it is a game named Defeat Lucifer Be Bravest hero, abbreviated as DLBB. -fontSize=default;
+choose:Start the game:选择场景文件|Quit the game:Pt3 Choose.txt;
+changeBg:Pt3_Ending/打BOSS.jpg -next;
+:Seems the owner of this phone's character is battling with the final boss. -fontSize=default;
+:Maybe the owner of this phone loves playing game? -fontSize=default;
+choose:Quit the game:Pt3 Choose.txt;

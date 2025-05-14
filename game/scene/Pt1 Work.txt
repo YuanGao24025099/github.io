@@ -1,0 +1,8 @@
+:In this unsettling environment, they couldn't help but think of their heavy job. -fontSize=default;
+:They have been snowed under with the work they missed. -fontSize=default;
+:So it's just a transition from one uncomfortable scene to another uncomfortable scene for them. -fontSize=default;
+???:(There's still so much work…… When can I finish them?) -fontSize=default;
+???:(Do I still have a chance to finish them?) -fontSize=default;
+:As if in response to their thoughts, the footsteps behind approached when they wasn't paying attention. -fontSize=default;
+:They really need to think less about work. Especially in this situation. -fontSize=default;
+changeScene:Pt1 Shoulder.txt

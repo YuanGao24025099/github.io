@@ -1,0 +1,6 @@
+changeBg:Pt3_Ending/240坐5.png -next;
+:You told 240 that you didn't see anything. -fontSize=default;
+240:Even though it was my fault that I hit you, please do not lie to me. -fontSize=default;
+240:But...it's ok if you don't want to say what you saw. -fontSize=default;
+240:I will live my life in my own way. Whether you watch it or not will not have a big impact on me. -fontSize=default;
+changeScene:End.txt

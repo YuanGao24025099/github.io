@@ -1,0 +1,10 @@
+changeFigure: -next;
+bgm:裸体舞曲1.mp3;
+changeBg:Pt3_Ending/240坐1.png -next;
+???:Sorry about I hit you earlier…… I didn't mean it, really. -fontSize=default;
+choose:It's okay:选择场景文件|Please watch the road:选择场景文件|You bumped into me and you didn't recognize me?:选择场景文件;
+???:I'm really sorry about that. Let's……just have a casual chat and call it a day, shall we? -fontSize=default;
+240:My number is 240. I heard 250 asked you to look at me, um, what did you look? -fontSize=default;
+:You finally reconize this voice, 240's voice is the main character in the first story and the person who bought the cake in the second story. -fontSize=default;
+:And you took a look at their phone just now. -fontSize=default;
+choose:Tell 240 you watched them in the first story:2401.txt|Tell 240 you watched them in the second story:2402.txt|Tell 240 you watched part of their phone:2403.txt|Tell 240 you didn't watch anything:2404.txt;

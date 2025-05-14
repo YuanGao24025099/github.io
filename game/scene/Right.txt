@@ -1,0 +1,3 @@
+changeBg:Pt3_Ending/奶牛猫狗.jpg -next;
+:The right one is a dog and a cat, so cute! -fontSize=default;
+choose:View Left picture:Left.txt|View Middle picture:Middle.txt|Quit the Gallery:Pt3 Choose.txt;

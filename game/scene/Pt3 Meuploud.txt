@@ -1,0 +1,7 @@
+bgm:糖梅仙子舞曲.mp3;
+changeBg:Pt3_Ending/视频记录.jpg -next;
+:You opened the Meuploud, the page stays in the history page. -fontSize=default;
+:From the top to the bottom, the videos are a cat video, the achievement guide of the game app, -fontSize=default;
+:and a travel video and a time-wasting video. -fontSize=default;
+:Maybe the owner of this phone will watch these videos to release their stress? -fontSize=default;
+choose:Quit the Meuploud:Pt3 Choose.txt;

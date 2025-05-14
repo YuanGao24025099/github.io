@@ -1,0 +1,4 @@
+changeBg:Pt3_Ending/摆件？.jpg -next;
+:The middle one shows a crystal-like thing placed on a table. -fontSize=default;
+:You can't tell what the thing is, but it has a good-looking. -fontSize=default;
+choose:View Left picture:Left.txt|View Right picture:Right.txt|Quit the Gallery:Pt3 Choose.txt;

@@ -1,0 +1,4 @@
+changeBg:Pt3_Ending/苹果派.jpg -next;
+:The left picture is a photo of a pie. -fontSize=default;
+:It makes you wonder what the pie is filled with. -fontSize=default;
+choose:View middle picture:Middle.txt|View Right picture:Right.txt|Quit the Gallery:Pt3 Choose.txt;

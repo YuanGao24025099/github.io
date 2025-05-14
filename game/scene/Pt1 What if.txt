@@ -1,0 +1,8 @@
+???:(What if the person behind has no ill intentions?) -fontSize=default;
+:They is either optimistic, naive, or tired, or all three. -fontSize=default;
+:Anyway, they relaxed their guard and their pace. -多人脚步声.mp3 -fontSize=default;
+:Compared to the endless work days that make them want to cry, maybe this is easier. -fontSize=default;
+:Although they knew they shouldn't blindly trust strangers, they still wanted to believe in people's kindness. -fontSize=default;
+:It is unknown if his trust will be rewarded for now—— -fontSize=default;
+:——until the next second. -fontSize=default;
+changeScene:Pt1 Shoulder.txt

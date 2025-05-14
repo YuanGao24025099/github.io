@@ -1,0 +1,12 @@
+changeFigure:pt3/250立绘/递手机.png -transform={"position":{"y":-721}} -next;
+:250 handed over a phone. -fontSize=default;
+250:You can explore the last part by yourself. -fontSize=default;
+250:By the way, this is not my phone. -fontSize=default;
+choose:Take the phone:选择场景文件;
+changeFigure: -next;
+bgm:糖梅仙子舞曲.mp3;
+changeBg:Pt3_Ending/主页.jpg -next;
+:There are a few apps on the main page. -fontSize=default;
+:Under your speculation, DLBB is a game, MeUploud is a Video platform, Instwitter is social media and Buy must be online shopping app. -fontSize=default;
+:You choose to view -fontSize=default;
+choose:Gallery:Pt3 Gallery.txt|DLBB:Pt3 Game.txt|MeUploud:Pt3 Meuploud.txt|Instwitter:Pt3 Instwitter.txt|Buy.:Pt3 Buy.txt;

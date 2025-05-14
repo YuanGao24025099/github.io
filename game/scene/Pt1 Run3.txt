@@ -1,0 +1,2 @@
+:They ran as hard as they can, as if they had already thrown the footsteps behind off. -fontSize=default;
+changeScene:Pt1 Shoulder.txt

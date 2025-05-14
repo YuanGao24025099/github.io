@@ -1,0 +1,8 @@
+Game_name:Time For Introspection;
+Game_key:5f96db418cbcdec;
+Title_img:Tutorial/Title image.png;
+Title_bgm:月光.mp3;
+Textbox_theme:imss;
+Game_Logo:Tutorial/Startup image.png;
+Package_name:Time-For-Introspection;
+Description:;

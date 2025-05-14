@@ -1,0 +1,5 @@
+changeBg:其他/Game Audio References.png -next;
+:You can left click to end the game. -fontSize=large;
+setTextbox:hide;
+setTextbox:on -next;
+choose:I accidentally click:Bibliography.txt|You gently close the door(End the game):Real End.txt;
